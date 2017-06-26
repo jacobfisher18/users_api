@@ -1,0 +1,35 @@
+* {
+    font-family: avenir;
+}
+
+form {
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 20px;
+}
+
+#get-form {
+    border: 5px solid blue;
+}
+
+#post-form {
+    border: 5px solid red;
+}
+
+#put-form {
+    border: 5px solid yellow;
+}
+
+#delete-form {
+    border: 5px solid green;
+}
+
+th {
+    background-color: #ccc;
+    padding: 5px;
+}
+
+td {
+    background-color: #eee;
+    padding: 5px;
+}
